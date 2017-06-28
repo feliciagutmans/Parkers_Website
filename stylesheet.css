@@ -16,14 +16,22 @@ body {
     padding-right: 40px;
   }
 
-  img{
+  img1{
     border-radius: 50%;
     max-width: 30%;
     max-height: auto;
     padding-left: 30px;
     padding-right: 30px;
-
   }
+
+  img{
+    border-radius: 100%;
+    max-width: 30%;
+    max-height: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
 
   p {
     font-size: 15px
