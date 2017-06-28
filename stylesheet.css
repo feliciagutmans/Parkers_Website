@@ -1,16 +1,16 @@
 h1 {
-  color:#B22222;
+  color:black;
 }
 title {
-  color:#B22222;
+  color:black;
 }
 
 body {
     text-align: center;
-    background: url("http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark_1920x1234.jpg");
+    background: url("http://blog.hostbaby.com/wp-content/uploads/2013/07/antiquepaper_1920x1234.jpg");
     background size: cover;
     background position: center;
-    color:#B22222;
+    color:black;
     font-family: sans-serif;
     padding-left: 50px;
     padding-right: 50px;
@@ -28,6 +28,7 @@ body {
   p {
     font-size: 15px
   }
+
 
   Input {
     border: 0;
