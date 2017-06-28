@@ -1,8 +1,8 @@
 h1 {
-  color: red;
+  color: #B22222;
 }
 title {
-  color: red;
+  color: #B22222;
 }
 
 body {
@@ -10,8 +10,8 @@ body {
     background: url("http://68.media.tumblr.com/88736866b1e6d5589c611bddf6a2fc67/tumblr_ofb3663y3F1u7632do4_r1_1280.jpg");
     background size: cover;
     background position: center;
-    color: red;
-    font-family: Times;
+    color: #B22222;
+    font-family: Helvetica;
   }
 
   img{
@@ -35,9 +35,9 @@ body {
   input[type="submit"] {
     background: red;
     color: white;
-    font-family: Times;
+    font-family: Helvetica;
   }
 
   input[placeholder] {
-    font-family: Times;
+    font-family: Helvetica;
   }
