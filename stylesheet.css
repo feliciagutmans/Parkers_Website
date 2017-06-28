@@ -18,6 +18,11 @@ body {
     border-radius: 50%;
   }
 
+  img.resize {
+    max-width: 30%;
+    max height: 30%;
+  }
+
   p {
     font-size: 30px
   }
