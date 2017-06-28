@@ -29,7 +29,7 @@ body {
   }
   input[type="submit"] {
     background: red;
-    color: red;
+    color: white;
     font-family: Times;
   }
 
