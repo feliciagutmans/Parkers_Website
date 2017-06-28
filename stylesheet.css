@@ -11,7 +11,7 @@ body {
     background size: cover;
     background position: center;
     color: #B22222;
-    font-family: Helvetica;
+    font-family: sans-serif;
   }
 
   img{
@@ -35,9 +35,9 @@ body {
   input[type="submit"] {
     background: red;
     color: white;
-    font-family: Helvetica;
+    font-family: sans-serif;
   }
 
   input[placeholder] {
-    font-family: Helvetica;
+    font-family: sans-serif;
   }
