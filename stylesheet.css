@@ -1,8 +1,8 @@
 h1 {
-  color: white;
+  color: red;
 }
 title {
-  color: black;
+  color: red;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
     background: url("http://68.media.tumblr.com/88736866b1e6d5589c611bddf6a2fc67/tumblr_ofb3663y3F1u7632do4_r1_1280.jpg");
     background size: cover;
     background position: center;
-    color: white;
+    color: red;
     font-family: Times;
   }
 
@@ -34,5 +34,5 @@ body {
   }
 
   input[placeholder] {
-    font-family: times;
+    font-family: Times;
   }
