@@ -1,5 +1,5 @@
 h1 {
-  color: #B22222;
+  color: white;
 }
 title {
   color: #B22222;
@@ -10,13 +10,13 @@ body {
     background: url("http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark_1920x1234.jpg");
     background size: cover;
     background position: center;
-    color: #B22222;
+    color: white;
     font-family: sans-serif;
   }
 
   img{
     border-radius: 50%;
-    max-width: 50%;
+    max-width: 30%;
     max-height: auto;
     padding-left: 30px;
     padding-right: 30px;
