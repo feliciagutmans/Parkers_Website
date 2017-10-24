@@ -1,21 +1,21 @@
 
 
 h1 {
-color:black;
+  color:black;
 }
 title {
-color:black;
+  color:black;
 }
 
 body {
-text-align: center;
-background: url("https://images.fineartamerica.com/images-medium-large-5/9-cogs-les-cunliffe.jpg");
-background size: cover;
-background position: center;
-color:black;
-font-family: sans-serif;
-padding-left: 200px;
-padding-right: 200px;
+  text-align: center;
+  background: url("https://images.fineartamerica.com/images-medium-large-5/9-cogs-les-cunliffe.jpg");
+  background size: cover;
+  background position: center;
+  color:black;
+  font-family: sans-serif;
+  padding-left: 200px;
+  padding-right: 200px;
 }
 
 div {
@@ -24,20 +24,29 @@ div {
   padding:20px
 }
 
-img{
-border-radius: 50%;
-max-width: 30%;
-max-height: auto;
-padding-left: 30px;
-padding-right: 30px;
+.image1{
+  border-radius: 50%;
+  max-width: 30%;
+  max-height: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.image2{
+  image:center;
+  max-width: 500px;
+  max-height: 500px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 p {
-font-size: 15px
+font-size: 15px;
+color:black;
 }
 
 h1, h2, h3 {
-color: darkred
+color: darkred;
 }
 
 
