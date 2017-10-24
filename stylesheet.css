@@ -1,46 +1,60 @@
+
+
 h1 {
-  color:black;
+color:black;
 }
 title {
-  color:black;
+color:black;
 }
 
 body {
-    text-align: center;
-    background: url("http://cdn.mysitemyway.com/etc-mysitemyway/webtreats/assets/posts/1073/full/tileable-whitewashed-grunge-textures-5.png");
-    background size: cover;
-    background position: center;
-    color:black;
-    font-family: sans-serif;
-    padding-left: 50px;
-    padding-right: 50px;
-  }
+text-align: center;
+background: url("https://images.fineartamerica.com/images-medium-large-5/9-cogs-les-cunliffe.jpg");
+background size: cover;
+background position: center;
+color:black;
+font-family: sans-serif;
+padding-left: 200px;
+padding-right: 200px;
+}
 
-  img{
-    border-radius: 50%;
-    max-width: 30%;
-    max-height: auto;
-    padding-left: 30px;
-    padding-right: 30px;
-  }
+div {
+  background-color:lightgrey;
+  text-color:darkred;
+  padding:20px
+}
+
+img{
+border-radius: 50%;
+max-width: 30%;
+max-height: auto;
+padding-left: 30px;
+padding-right: 30px;
+}
+
+p {
+font-size: 15px
+}
+
+h1, h2, h3 {
+color: darkred
+}
 
 
-  p {
-    font-size: 15px
-  }
+Input {
+border: 0;
+padding: 10px;
+font-size: 15px;
+}
+input[type="submit"] {
+background:#B22222;
+color: white;
+font-family: sans-serif;
+}
 
-
-  Input {
-    border: 0;
-    padding: 10px;
-    font-size: 15px;
-  }
-  input[type="submit"] {
-    background:#B22222;
-    color: white;
-    font-family: sans-serif;
-  }
-
-  input[placeholder] {
-    font-family: sans-serif;
-  }
+input[placeholder] {
+font-family: sans-serif;
+}
+.content {
+background-color: grey;
+}
